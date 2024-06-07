@@ -10,7 +10,7 @@ The Executive Level learning path provides a high-level overview of Test-Driven 
 
 ### Learning path:
 - Read TDD definition on Test-Driven Development (TDD) from [Test-Driven Development](https://www.codurance.com/test-driven-development-guide), Codurance.
-- Take online course What Is TDD and Why It Is Not Unit Testing: Executive Briefing by Amy Dredge. Pluralsight. (32 min).
+- Take online course [What Is TDD and Why It Is Not Unit Testing: Executive Briefing](https://app.pluralsight.com/library/courses/tdd-is-not-unit-testing-executive-briefing/table-of-contents) by Amy Dredge. Pluralsight. (32 min).
 
 
 ## Beginner level
