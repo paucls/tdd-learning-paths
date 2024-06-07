@@ -44,7 +44,7 @@ This path covers the foundations of TDD and progresses to more advanced concepts
 - Read "The Three Laws of TDD" on chapter 9 of Clean Code, Robert C. Martin
 - Read "Single Concept per Test" on chapter 9 of Clean Code, Robert C. Martin
 - Watch [“Episode 6: TDD” of Clean Coders](https://cleancoders.com/episode/clean-code-episode-6-p1), Robert C. Martin
-- A recommended course (The World's Best Intro to TDD)[https://www.jbrains.ca/training/course/worlds-best-intro-to-tdd/], J. B. Rainsberger
+- A recommended course [The World's Best Intro to TDD](https://www.jbrains.ca/training/course/worlds-best-intro-to-tdd), J. B. Rainsberger
 
 
 ## Intermediate level
@@ -56,18 +56,17 @@ This path delves deeper into advanced principles, refines your technique, and te
 - Design Principles introduction
 
 ### Learning path:
-- Watch “Episode 19: Advanced TDD” of Clean Coders
-- Read Test Coverage, Martin Fowler
-- Read Workflows of Refactoring, Martin Fowler
-- Read chapter 12 "Refactoring" of the book TDD by Jason Gorman.
-- Read the book Refactoring, Martin Fowler
-- Read and get familiar with the Catalogue of Code Smells 
-- Read The Core 6 Refactorings, Arlo Belshee
-- Read Swappability of Dependencies, Jason Gorman.
-- Watch module 6 "Is Test-driven Development All I Need?" from online course Test-driven Development: The Big Picture, by Jason Olson. Pluralsight. (13m)
-- Pluralsight course Encapsulation and SOLID, Mark Seemann
-- Practice doing more TDD exercises.
-- Practice doing Refactoring exercises like the Tennis kata, Guilded Rose kata or Trivia kata.
+- Watch [“Episode 19: Advanced TDD”](https://cleancoders.com/episode/clean-code-episode-19-p1) of Clean Coders, Robert C. Martin
+- Read [Test Coverage](https://martinfowler.com/bliki/TestCoverage.html), Martin Fowler
+- Read [Workflows of Refactoring](https://martinfowler.com/articles/workflowsOfRefactoring/), Martin Fowler
+- Read chapter 12 "Refactoring" of the [book TDD](https://codemanship.co.uk/tdd_jasongorman_codemanship.pdf) by Jason Gorman.
+- Read the book [Refactoring](https://martinfowler.com/books/refactoring.html), Martin Fowler
+- Read and get familiar with the [Catalogue of Code Smells](https://sourcemaking.com/refactoring/smells)
+- Read [The Core 6 Refactorings](http://arlobelshee.com/the-core-6-refactorings), Arlo Belshee
+- Watch module 6 [Is Test-driven Development All I Need?]() from online course Test-driven Development: The Big Picture, by Jason Olson. Pluralsight. (13m)
+- Pluralsight course [Encapsulation and SOLID](https://app.pluralsight.com/library/courses/encapsulation-solid/table-of-contents), Mark Seemann
+- Practice doing more [TDD exercises](https://kata-log.rocks/starter).
+- Practice doing Refactoring exercises like the [Tennis kata](https://kata-log.rocks/tennis-kata), [Guilded Rose kata](https://kata-log.rocks/gilded-rose-kata).
 
 
 ## Advanced level
@@ -84,6 +83,7 @@ This path is designed to challenge you and push the boundaries of your TDD skill
 - Read book [Growing Object-Oriented Software, Guided by Tests](https://www.goodreads.com/book/show/4268826-growing-object-oriented-software-guided-by-tests). Steve Freeman , Nat Pryce.
 - Learn and avoid [TDD anti-patterns](https://www.codurance.com/publications/tdd-antipatters-series). Watch also the youtube videos.
 - Read [TDD - From the Inside Out or the Outside In?](https://8thlight.com/insights/tdd-from-the-inside-out-or-the-outside-in), Georgina McFadyen
+- Practice doing Refactoring exercises like the [Trivia kata](https://kata-log.rocks/ugly-trivia-kata).
 
 ### Additional recommend resources:
 - [Comparative Case Study (Outside-in vs Inside-out TDD)](https://cleancoders.com/episode/comparativeDesign-episode-1), Clean Coders
