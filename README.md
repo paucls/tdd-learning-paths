@@ -87,3 +87,12 @@ This path is designed to challenge you and push the boundaries of your TDD skill
 
 ### Additional recommend resources:
 - [Comparative Case Study (Outside-in vs Inside-out TDD)](https://cleancoders.com/episode/comparativeDesign-episode-1), Clean Coders
+
+## Contributing
+These learning paths are not yet complete, and I more than welcome your [feedback](https://github.com/paucls/tdd-learning-paths/issues) or [pull requests](https://github.com/paucls/tdd-learning-paths/pulls).
+
+## Credits and contributors
+* [Paulo Clavijo](https://x.com/pclavijo)
+
+## License
+[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
