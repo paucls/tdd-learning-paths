@@ -95,4 +95,7 @@ These learning paths are not yet complete, and I more than welcome your [feedbac
 * [Paulo Clavijo](https://x.com/pclavijo)
 
 ## License
+Attribution-ShareAlike 4.0
+
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+
