@@ -30,6 +30,7 @@ This path covers the foundations of TDD and progresses to more advanced concepts
 - Take online course [Test-driven Development: The Big Picture](https://app.pluralsight.com/library/courses/test-driven-development-big-picture-2022), by Jason Olson. Modules 1 to 5. Pluralsight. (1h)
 - Watch [Motivations for TDD](https://app.pluralsight.com/ilx/video-courses/3a6b15b5-0f5e-4753-91bd-0ecab4d98769/a06a027b-8d25-4955-8ef5-07b1b2776dcd/807e8105-8e33-4a0c-a2da-08a98f396615) from online course TDD as a Design Tool by Nate Taylor. Pluralsight. (4m)
 - Watch [Mechanics of TDD](https://app.pluralsight.com/ilx/video-courses/3a6b15b5-0f5e-4753-91bd-0ecab4d98769/a06a027b-8d25-4955-8ef5-07b1b2776dcd/daf15ce9-c356-4439-a1ef-3c8d037effed) from online course TDD as a Design Tool by Nate Taylor. Pluralsight. (5m)
+- Read first part of the book [Test Driven Development: By Example](https://www.goodreads.com/book/show/387190.Test_Driven_Development) by Kent Beck. Through practical examples, Beck guides the reader in developing high-quality software iteratively.
 - Watch [The 3 Laws of TDD: Focus on One Thing at a Time](https://qualitycoding.org/3-laws-tdd/), Jon Reid. (10m)
 - Read [Make the test pass with Green Patterns](https://paucls.wordpress.com/2024/05/24/tdd-make-the-test-pass-with-green-patterns/), Paulo Esteban (3m)
 - Watch [Triangulation in Test-driven Development](https://www.youtube.com/watch?v=E8gipX_C5fM), Jason Gorman (25m)
@@ -39,7 +40,6 @@ This path covers the foundations of TDD and progresses to more advanced concepts
 - Practice doing simple TDD exercises like the [Leap Year Kata](https://codingdojo.org/kata/LeapYears/), the [Roman Numerals Kata](https://kata-log.rocks/roman-numerals-kata) or the [Prime Factors Kata](http://butunclebob.com/ArticleS.UncleBob.ThePrimeFactorsKata).
 
 ### Additional recommend resources:
-- Read first part of the book [Test Driven Development: By Example](https://www.goodreads.com/book/show/387190.Test_Driven_Development) by Kent Beck. Through practical examples, Beck guides the reader in developing high-quality software iteratively.
 - Read [The three rules of TDD](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd), Robert C. Martin
 - Read "The Three Laws of TDD" on chapter 9 of Clean Code, Robert C. Martin
 - Read "Single Concept per Test" on chapter 9 of Clean Code, Robert C. Martin
