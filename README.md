@@ -69,6 +69,8 @@ This path delves deeper into advanced principles, refines your technique, and te
 - Practice doing more [TDD exercises](https://kata-log.rocks/starter).
 - Practice doing Refactoring exercises like the [Tennis kata](https://kata-log.rocks/tennis-kata), [Guilded Rose kata](https://kata-log.rocks/gilded-rose-kata).
 
+### Additional recommend resources:
+- Read book Five Lines of Code by Christian Clausen.
 
 ## Advanced level
 This path is designed to challenge you and push the boundaries of your TDD skills.
