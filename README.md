@@ -64,6 +64,7 @@ This path delves deeper into advanced principles, refines your technique, and te
 - Read and get familiar with the [Catalogue of Code Smells](https://sourcemaking.com/refactoring/smells)
 - Read [The Core 6 Refactorings](http://arlobelshee.com/the-core-6-refactorings), Arlo Belshee
 - Watch module 6 [Is Test-driven Development All I Need?]() from online course Test-driven Development: The Big Picture, by Jason Olson. Pluralsight. (13m)
+- Read Unit Testing Anti-Patterns from chapter 11 of the book Unit Testing by Vladimir Khorikov.
 - Pluralsight course [Encapsulation and SOLID](https://app.pluralsight.com/library/courses/encapsulation-solid/table-of-contents), Mark Seemann
 - Practice doing more [TDD exercises](https://kata-log.rocks/starter).
 - Practice doing Refactoring exercises like the [Tennis kata](https://kata-log.rocks/tennis-kata), [Guilded Rose kata](https://kata-log.rocks/gilded-rose-kata).
@@ -80,6 +81,8 @@ This path is designed to challenge you and push the boundaries of your TDD skill
 - Applying an Architectural Style.
 
 ### Learning path:
+- Read "Mocks and Test Fragility" from chapter 5 of the book Unit Testing by Vladimir Khorikov.
+- Read "Why Integration Testing?" from chapter 8 of the book Unit Testing by Vladimir Khorikov.
 - Read book [Growing Object-Oriented Software, Guided by Tests](https://www.goodreads.com/book/show/4268826-growing-object-oriented-software-guided-by-tests). Steve Freeman , Nat Pryce.
 - Learn and avoid [TDD anti-patterns](https://www.codurance.com/publications/tdd-antipatters-series). Watch also the youtube videos.
 - Read [TDD - From the Inside Out or the Outside In?](https://8thlight.com/insights/tdd-from-the-inside-out-or-the-outside-in), Georgina McFadyen
