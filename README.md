@@ -69,6 +69,9 @@ This path delves deeper into advanced principles, refines your technique, and te
 - Practice doing more [TDD exercises](https://kata-log.rocks/starter).
 - Practice doing Refactoring exercises like the [Tennis kata](https://kata-log.rocks/tennis-kata), [Guilded Rose kata](https://kata-log.rocks/gilded-rose-kata).
 
+### Demos:
+- Watch [Read by Refactoring demo](https://www.youtube.com/watch?v=vrlY_ZzaHSY), Jay Bazuzi (6m) a good example of Comprehension Refactoring workflow.
+
 ### Additional recommend resources:
 - Read book Five Lines of Code by Christian Clausen.
 
